@@ -46,4 +46,4 @@ If the script is not working:
 
 ## Credits
 
-Created and maintained by the Diablo IV scripting community. 
+Created and maintained by Smoke
